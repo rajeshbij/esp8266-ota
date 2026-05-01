@@ -4,6 +4,6 @@
   "rollout": 100,
   "devices": {},
   "firmware": {
-    "1.1": "https://raw.githubusercontent.com/rajeshbij/esp8266-ota/main/firmware/firmware_v1.1.bin"
+    "1.1": "https://raw.githubusercontent.com/rajeshbij/esp8266-ota/main/firmware/v1.1.bin"
   }
 }
