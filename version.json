@@ -1,4 +1,9 @@
 {
-  "version": "1.1",
-  "firmware": "https://raw.githubusercontent.com/rajeshbij/esp8266-ota/main/firmware/firmware_v1.1.bin"
+  "stable_version": "1.1",
+  "force_update": true,
+  "rollout": 100,
+  "devices": {},
+  "firmware": {
+    "1.1": "https://raw.githubusercontent.com/rajeshbij/esp8266-ota/main/firmware/firmware_v1.1.bin"
+  }
 }
